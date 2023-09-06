@@ -2,7 +2,7 @@
 
 All of this activity is in RStudio.
 
-1. Clone this repo: https://github.com/snowex-hackweek/git-basics
+1. Clone this repo: <https://github.com/Hackweek-ITCOocean/git-basics>
 2. Navigate to the repo, copy `Copyme.md` and rename to `<yourname>.md`
 3. Stage and then commit that new file.
 4. Push to GitHub.
